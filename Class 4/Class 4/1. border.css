@@ -1,0 +1,10 @@
+div{
+    background-color:darksalmon;
+    height:300px;
+    width: 300px;
+    /* border-style: dashed; */
+    /* border-style: dotted; */
+    /* border-style:double; */
+    border-style:inset;
+
+}

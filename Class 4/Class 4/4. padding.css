@@ -1,0 +1,22 @@
+.p-class{
+    height:500px;
+    width:500px;
+    background-color: brown;
+}
+
+.btn{
+    background-color:darkgreen;
+    color:white;
+    height:50px;
+    width: 100px;
+    margin-top: 200px;
+    margin-left:200px;
+
+    /* padding-top:20px;
+    padding-left:30px;
+    padding-right:40px;
+    padding-bottom:30px; */
+    padding: 20px 20px 20px 20px;
+
+}
+

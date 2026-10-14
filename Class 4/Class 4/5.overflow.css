@@ -1,0 +1,10 @@
+.mydiv{
+    height:400px;
+    width:200px;
+    border-style: dashed;
+    background-color: cornflowerblue;
+    /* overflow:hidden; */
+    /* overflow:auto; */
+    overflow-y:scroll;
+
+}
